@@ -7,7 +7,11 @@ Crear una un aplicacion de gestion de lista de tareas en la consola utilizando N
 
 2) Interfaz del menu interactivo:
 
-       Que desea hacer?
+       =======================
+        Seleccione una opcion
+       =======================
+
+       ? Que desea hacer?
          1. Crear tarea
          2. Listar tareas
          3. Listar tareas completadas
