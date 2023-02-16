@@ -3,7 +3,7 @@
 ## BREVE EXPLICACION
 
 1) Objetivo del proyecto:\
-Crear una un aplicacion de gestion de lista de tareas en la consola utilizando Node.js y Express
+Crear una un aplicacion de gestion de lista de tareas en la consola utilizando Node.js
 
 2) Interfaz del menu interactivo:
 
