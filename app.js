@@ -49,7 +49,7 @@ const main = async () => {
         break;
     }
     guardarDB(tareas.listadoArr);
-    await pausa();
+    if (opt !== 0) await pausa();
   } while (opt !== "0");
 };
 
