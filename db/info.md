@@ -1,1 +1,1 @@
-Aca se guardan las tareas ingresadas por el usuario
+# Aca se guardan las tareas ingresadas por el usuario, simulando una base de datos
