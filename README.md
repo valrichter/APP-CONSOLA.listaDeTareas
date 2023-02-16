@@ -22,6 +22,6 @@ Crear una un aplicacion de gestion de lista de tareas en la consola utilizando N
 
 ### Como iniciar la aplicacion
 
-Dentro de la carpeta donde esta el archivo, app.js
+Dentro de la carpeta donde esta el archivo app.js
 1) Ejecutar el comando, npm i
 2) Ejecutar el comando, node app.js
