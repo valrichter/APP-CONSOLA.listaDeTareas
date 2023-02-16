@@ -2,7 +2,7 @@
 
 ## BREVE EXPLICACION
 
-1) Objetivos del proyecto:\
+1) Objetivo del proyecto:\
 Crear una un aplicacion de gestion de lista de tareas en la consola utilizando Node.js y Express
 
 2) Interfaz del menu interactivo:
@@ -24,4 +24,4 @@ Crear una un aplicacion de gestion de lista de tareas en la consola utilizando N
 
 Dentro de la carpeta donde esta el archivo, app.js
 1) Ejecutar el comando, npm i
-2) Ejecutar el comnado, node app.js
+2) Ejecutar el comando, node app.js
